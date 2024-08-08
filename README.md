@@ -58,8 +58,11 @@ Feel free to reach out for collaboration or opportunities:
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=farhanshares&count_private=true&show_icons=true" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhanshares&layout=compact" />
+
+
+<img align="center" src="https://komarev.com/ghpvc/?username=farhanshares&style=for-the-badge" alt="Profile Views Counter"> (Since Aug 8, 2024)
+
 ![](https://hit.yhype.me/github/profile?user_id=3446817)
-![](https://komarev.com/ghpvc/?username=your-github-username)
 
 <!--
 **FarhanShares/FarhanShares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
